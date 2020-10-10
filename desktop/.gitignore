@@ -1,0 +1,7 @@
+bin
+*.exe
+db.txt
+CMakeFiles
+CMakeCache.txt
+Makefile
+*.cmake
