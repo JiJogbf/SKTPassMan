@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SKTPassManClient</string>
+    <string name="account_title">Псевдоним учётки</string>
+    <string name="username_title">Логин</string>
+    <string name="password_title">Пароль</string>
+    <string name="placeholder">Пусто</string>
+    <string name="copy_btn_title">Копировать</string>
+    <string name="remove_btn_title">Удалить</string>
+    <string name="new_btn_title">Добавить</string>
+</resources>
